@@ -12,7 +12,6 @@ public class App {
     public static void main(String[] args) {
         System.out.println(MESSAGE);
         System.out.println("123");
-        System.out.println("456");
     }
 
     public String getMessage() {
